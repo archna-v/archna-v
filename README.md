@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Archna V</h1>
-<h3 align="center">Computer Science Engineering Graduate | Full-Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Learner" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Generative+AI+Learner;Problem+Solver" />
 </p>
 
 ---
