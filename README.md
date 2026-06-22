@@ -29,7 +29,7 @@
 - Improving Data Structures & Algorithms skills
 - Exploring AI and Generative AI technologies
 - Learning System Design concepts
-- Contributing to personal and academic projects
+- Contributing to personal and academic  projects
 
 ---
 
